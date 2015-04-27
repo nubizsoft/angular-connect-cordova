@@ -1,0 +1,1 @@
+angular.module('angular-connect-cordova', ['angular-connect', 'ngCordova.plugins.oauth']);
